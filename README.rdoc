@@ -3,7 +3,7 @@ Rails View Inheritance Example (Tweetegy.com)
 
 Example Rails app to demonstrate how developers might make use of Rails View Inheritance
 
-For more details about the story check the following blog:
+For more details about the story check the following blog post: http://www.tweetegy.com/2014/04/rails-view-template-inheritance/
 
 ## Installation / Try this out at home
 
